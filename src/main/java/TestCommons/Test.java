@@ -15,7 +15,7 @@ public class Test {
     @org.junit.Test
     public void test(){
         File file=new File("C:/Users/LSM/Desktop/testdata\20170401");
-
+         System.out.println("u");
         System.out.println(file==null);
     }
 }
